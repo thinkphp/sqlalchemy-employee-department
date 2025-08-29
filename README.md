@@ -1,6 +1,5 @@
 ## 📘 README.md – Employee-Department ORM Project
 
-```markdown
 # 🧑‍💼 Employee-Department ORM Project
 
 This project demonstrates how to use SQLAlchemy to model and manage relationships between employees and departments in a MySQL database. It’s a simple yet effective example of one-to-many relationships using Python's ORM capabilities.
