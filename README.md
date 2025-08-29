@@ -1,5 +1,3 @@
----
-
 ## 📘 README.md – Employee-Department ORM Project
 
 ```markdown
