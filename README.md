@@ -1,5 +1,3 @@
-Absolutely, Adrian! Here's a polished and professional `README.md` in English for your SQLAlchemy + MySQL project involving employees and departments. It’s structured to be clear for GitHub visitors and useful for your own documentation:
-
 ---
 
 ## 📘 README.md – Employee-Department ORM Project
